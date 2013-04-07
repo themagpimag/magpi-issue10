@@ -9,10 +9,14 @@
 ## Scribus specific
 *.sla.autosave
 fontconfig
+*.pdf
+
+## Apple meta data
+.AppleDouble
+
+## Font files generated on OSX ?
 *.afm
 *.pfb
-*.pdf
-GenericCMYK.icm
 
 ## For java
 *.class
